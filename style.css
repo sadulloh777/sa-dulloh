@@ -1,0 +1,264 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+.header{
+    width: 1440px;
+    height: 85px;
+    margin: 0 auto;
+}
+.logo{
+    margin-left: 34px;
+    margin-top: 23px;
+}
+.ul{
+    color: #00402F;
+    font-size: 12px;
+    display: flex;
+    gap: 80px;
+    margin-top: 32px;
+    margin-left: 400px;
+}
+.nav{
+    display: flex;
+}
+.btn2{
+    background-color: #00402F;
+    color: white;
+    padding-left: 28px;
+    padding-right: 29px;
+    margin-left:49px;
+}
+.btn2:hover{
+    background-color: black;
+    color: white;
+}
+.header-content{
+    width: 1440px;
+    height: 697px;
+    margin: 0 auto;
+    background-color: #668C82;
+}
+.logo2{
+    margin-left: 145px;
+    margin-top: 80px;
+}
+.h1{
+    font-size: 61px;
+    font-weight: 400;
+    margin-left: 771px;
+    color: white;
+    margin-top: -500px;
+}
+.p{
+    color: white;
+    margin-left: 771px;
+    margin-top: 10px;
+}
+.p1{
+    color: white;
+    margin-left: 796px;
+    margin-top: 15px;
+}
+.p2{
+    color: white;
+    margin-left: 796px;
+    margin-top: 15px;
+}
+.p3{
+    color: white;
+    margin-left: 796px;
+    margin-top: 15px;
+}
+.p4{
+    color: white;
+    margin-left: 796px;
+    margin-top: 15px;
+}
+.p5{
+    color: white;
+    margin-left: 796px;
+    margin-top: 15px;   
+}
+.btn3{
+    margin-left: 771px;
+    margin-top: 32px;
+    font-size: 12px;
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    border-radius: 50px;
+}
+.btn3:hover{
+    background-color: black;
+    color: white;
+}
+.section{
+    width: 1440px;
+    height: 662px;
+    background-color: #849ACB;
+    margin: 674px auto;
+    color: white;
+}
+.h{
+    font-size: 34px;
+    margin-left: 145px;
+    margin-top: 187px;
+}
+.btnh{
+    padding-left: 26px;
+    padding-right: 26px;
+    border-radius: 50px;
+    background-color: #849ACB;
+    color: white;
+    border: 2px solid white;
+    margin-left: 145px;
+}
+.btnh:hover{
+    color: #849ACB;
+    background-color: white;
+}
+.logoh{
+    margin-left: 450px;
+    margin-top: -350px;
+}
+.div{
+    width: 1440px;
+    height: 628px;
+}
+.div{
+    width: 1440px;
+    height: 628px;
+    margin: 0 auto;
+}
+.logo-div{
+    margin-left: 155px;
+    margin-top: 180px;
+}
+.h1-div{
+    color: black;
+    margin-left: 700px;
+    font-size: 50px;
+    margin-top: -450px;
+    font-weight: 400;
+}
+.p1{
+    color: black;
+    margin-left: 700px;
+}
+.btn-div{
+    padding-left: 24px;
+    padding-right: 24px;
+    background-color: #00402F;
+    border-radius: 50px;
+    color: white;
+    margin-left: 700px;
+    margin-top: 30px;
+}
+.div2{
+    width: 1440px;
+    height: 627px;
+    color: black;
+}
+.h1-div2{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 400;
+    margin-top: 150px;
+}
+.logo-div2{
+    margin-left: 660px;
+    margin-top: 83px;
+}
+.div3{
+    width: 1440px;
+    height: 700px;
+    margin: 0 auto;
+    color: black;
+}
+.logo-div3{
+    margin-left: 155px;
+}
+.h1-div3{
+    color: black;
+    margin-left: 771px;
+    margin-top: -300px;
+    font-size: 36px;
+    font-weight: 400;
+}
+.p-div3{
+    margin-left: 771px;
+    margin-top: 10px;
+}
+.div4{
+    width: 1440px;
+    height: 668px;
+    margin: 0 auto;
+    color: black;
+}
+.h1-div4{
+    margin-left: 155px;
+    margin-top: 100px;
+}
+.p-div4{
+    margin-left: 155px;
+    margin-top: 20px;
+}
+.logo-div4{
+    margin-left: 730px;
+    margin-top: -380px;
+}
+.div5{
+    width: 1440px;
+    height: 550px;
+    margin: 0 auto;
+    color: black;
+}
+.logo-div5{
+    margin-left: 168px;
+}
+.h1-div5{
+    margin-left: 786px;
+    margin-top: -350px;
+    font-size: 36px;
+    font-weight: 400;
+}
+.p-div5{
+    margin-left: 786px;
+    margin-top: 25px;
+}
+.div6{
+    width: 1440px;
+    height: 666px;
+    margin: 0 auto;
+    color: black;
+    background-color: #FFF4E3;
+}
+.h1-div6{
+    font-size: 50px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 82px;
+}
+.logo1-div6{
+    margin-left: 176px;
+    margin-right: 62px;
+    margin-top: 50px;
+}
+.logo2-div6{
+    margin-right: 62px;
+}
+.footer{
+    width: 1440px;
+    height: 647px;
+    margin: 0 auto;
+    background-color: #522840;
+}
+.h1-footer{
+    text-align: center;
+    font-size: 34px;
+    font-weight: 400;
+}
